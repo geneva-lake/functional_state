@@ -1,0 +1,4 @@
+name: user
+port: 8007
+db_connection_sring:  host=localhost user=postgres port=5432 dbname=users
+fiancials_url: http://localhost:8006/user/%s
